@@ -1,4 +1,4 @@
-<img width="1032" height="561" alt="image" src="https://github.com/user-attachments/assets/b49eb051-3053-4c67-af34-9eee57364495" />Номер групи: РС-31
+Номер групи: РС-31
 
 Автор: Фурса Данило
 
