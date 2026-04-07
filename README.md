@@ -51,3 +51,8 @@ xQueueSendFromISR().
 - Кнопка 2 (керує PD13): VDD (+3.3V) → Кнопка → Пін PA1
 - Кнопка 3 (керує PD14): VDD (+3.3V) → Кнопка → Пін PA2
 - Кнопка 4 (керує PD15): VDD (+3.3V) → Кнопка → Пін PA3
+
+  Відео роботи:
+
+https://github.com/user-attachments/assets/22ee80ed-0846-4b1e-b8ab-b92d953dd5ac
+
