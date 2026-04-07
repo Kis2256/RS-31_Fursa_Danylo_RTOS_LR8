@@ -1,4 +1,4 @@
-Номер групи: РС-31
+<img width="1032" height="561" alt="image" src="https://github.com/user-attachments/assets/b49eb051-3053-4c67-af34-9eee57364495" />Номер групи: РС-31
 
 Автор: Фурса Данило
 
@@ -51,6 +51,15 @@ xQueueSendFromISR().
 - Кнопка 2 (керує PD13): VDD (+3.3V) → Кнопка → Пін PA1
 - Кнопка 3 (керує PD14): VDD (+3.3V) → Кнопка → Пін PA2
 - Кнопка 4 (керує PD15): VDD (+3.3V) → Кнопка → Пін PA3
+
+🎲 Налаштування в CubeMX
+
+<img width="1556" height="798" alt="image" src="https://github.com/user-attachments/assets/9dffeb23-cf98-4ff4-8b09-3e2fcb72ca4d" />
+<img width="1563" height="862" alt="image" src="https://github.com/user-attachments/assets/df455ef6-14c4-43d0-b2e2-5f76d33e29b7" />
+<img width="1570" height="787" alt="image" src="https://github.com/user-attachments/assets/ad6496e3-06f8-4de2-b8c3-973666e06876" />
+<img width="661" height="77" alt="image" src="https://github.com/user-attachments/assets/862b3beb-1edd-47b4-925b-e21e41e371fa" />
+<img width="1032" height="561" alt="image" src="https://github.com/user-attachments/assets/de1e57a7-3ab6-4baa-bec8-b967ca1da163" />
+
 
 🎥 Відео роботи:
 
